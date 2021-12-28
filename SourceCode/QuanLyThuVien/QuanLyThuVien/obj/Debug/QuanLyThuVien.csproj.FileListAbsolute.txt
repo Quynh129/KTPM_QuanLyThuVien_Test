@@ -1,0 +1,64 @@
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLPhieuMuon.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLPhieuTra.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLThanhVien.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTableManage.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLSach.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmTimKiemSach.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmDoiMatKhau.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmSachDaMuon.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmSachDaTra.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmThanhVien.resources
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\PNHAI\Desktop\New folder (2)\ban3.1\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe.licenses
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLPhieuMuon.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLPhieuTra.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLThanhVien.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTableManage.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLSach.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmTimKiemSach.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmDoiMatKhau.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmSachDaTra.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmThanhVien.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe.licenses
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmSachDangMuon.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmDangMuon.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmDaTra.resources
+C:\Users\PNHAI\Desktop\New folder (2)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLPhieuMuon.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLPhieuTra.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLThanhVien.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTableManage.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmQLSach.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmTimKiemSach.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmDoiMatKhau.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmSachDangMuon.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmSachDaTra.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmThanhVien.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmDangMuon.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ucFrmDaTra.resources
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe.licenses
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\NA\Study\University\3rd Junior\211\T4_Kiểm thử phần mềm\Nhóm\BaiTapNhom\SourceCode\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
